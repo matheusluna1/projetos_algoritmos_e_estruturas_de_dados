@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755358311 source:d:\documents\faculdade\1 e 2 perídos 2025\algoritmos e estruturas de dados_2p\ed01ta01 - revisional\randomização_e_vetores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
